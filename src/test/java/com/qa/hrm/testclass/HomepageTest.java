@@ -43,7 +43,7 @@ public class HomepageTest extends TestBase {
 		boolean flag = homepage.homepageLogo();
 		Assert.assertTrue(flag);
 	}
-
+//test cases
 	@Test(priority=3)
 	public void loginTest() {
 
