@@ -33,7 +33,7 @@ public class ExcelSheet {
 		Object[][] obj= new Object[sheet.getLastRowNum()][sheet.getRow(0).getLastCellNum()];
 		for(int i = 0;i<sheet.getLastRowNum();i++) {
 			for(int k=0; k<sheet.getRow(0).getLastCellNum();k++) {
-				obj[i][k]= sheet.getRow(i+1).getCell(k);
+				obj[i][k]= sheet.getRow(i+1).getCell(k).toString();
 				
 			}
 		}

@@ -1,49 +1,121 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-24T12:56:49 GMT-08:00" name="Suite" finished-at="2022-11-24T12:57:43 GMT-08:00" duration-ms="54061">
+  <suite started-at="2022-11-25T04:11:28 GMT-08:00" name="Default suite" finished-at="2022-11-25T04:13:38 GMT-08:00" duration-ms="129939">
     <groups>
     </groups>
-    <test started-at="2022-11-24T12:56:49 GMT-08:00" name="Test" finished-at="2022-11-24T12:57:43 GMT-08:00" duration-ms="54061">
+    <test started-at="2022-11-25T04:11:28 GMT-08:00" name="Default test" finished-at="2022-11-25T04:13:38 GMT-08:00" duration-ms="129939">
       <class name="com.qa.hrm.testclass.HomepageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-24T12:56:49 GMT-08:00" name="setUp" finished-at="2022-11-24T12:57:14 GMT-08:00" duration-ms="24522" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-25T04:11:28 GMT-08:00" name="setUp" finished-at="2022-11-25T04:12:18 GMT-08:00" duration-ms="50284" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="homepageTitleTest()[pri:1, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-24T12:57:14 GMT-08:00" name="homepageTitleTest" finished-at="2022-11-24T12:57:14 GMT-08:00" duration-ms="26" status="PASS">
+        <test-method signature="homepageTitleTest()[pri:1, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-25T04:12:18 GMT-08:00" name="homepageTitleTest" finished-at="2022-11-25T04:12:19 GMT-08:00" duration-ms="103" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homepageTitleTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-24T12:57:14 GMT-08:00" name="tearDown" finished-at="2022-11-24T12:57:14 GMT-08:00" duration-ms="857" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-25T04:12:19 GMT-08:00" name="tearDown" finished-at="2022-11-25T04:12:19 GMT-08:00" duration-ms="606" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-24T12:57:14 GMT-08:00" name="setUp" finished-at="2022-11-24T12:57:29 GMT-08:00" duration-ms="14651" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-25T04:12:19 GMT-08:00" name="setUp" finished-at="2022-11-25T04:12:42 GMT-08:00" duration-ms="22989" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="homepageLogoTest()[pri:2, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-24T12:57:29 GMT-08:00" name="homepageLogoTest" finished-at="2022-11-24T12:57:30 GMT-08:00" duration-ms="1074" status="PASS">
+        <test-method signature="homepageLogoTest()[pri:2, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-25T04:12:42 GMT-08:00" name="homepageLogoTest" finished-at="2022-11-25T04:12:44 GMT-08:00" duration-ms="1905" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homepageLogoTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-24T12:57:30 GMT-08:00" name="tearDown" finished-at="2022-11-24T12:57:30 GMT-08:00" duration-ms="270" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-25T04:12:44 GMT-08:00" name="tearDown" finished-at="2022-11-25T04:12:45 GMT-08:00" duration-ms="745" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-24T12:57:30 GMT-08:00" name="setUp" finished-at="2022-11-24T12:57:41 GMT-08:00" duration-ms="10430" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-25T04:12:45 GMT-08:00" name="setUp" finished-at="2022-11-25T04:12:58 GMT-08:00" duration-ms="13186" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="loginTest()[pri:3, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-24T12:57:41 GMT-08:00" name="loginTest" finished-at="2022-11-24T12:57:42 GMT-08:00" duration-ms="1532" status="PASS">
+        <test-method signature="loginTest()[pri:3, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-25T04:12:58 GMT-08:00" name="loginTest" finished-at="2022-11-25T04:13:02 GMT-08:00" duration-ms="3678" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-24T12:57:42 GMT-08:00" name="tearDown" finished-at="2022-11-24T12:57:43 GMT-08:00" duration-ms="620" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-25T04:13:02 GMT-08:00" name="tearDown" finished-at="2022-11-25T04:13:02 GMT-08:00" duration-ms="422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-25T04:13:03 GMT-08:00" name="setUp" finished-at="2022-11-25T04:13:10 GMT-08:00" duration-ms="6323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="DataProviderTest(java.lang.String,java.lang.String)[pri:4, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-25T04:13:10 GMT-08:00" name="DataProviderTest" data-provider="getDataFromExcel" finished-at="2022-11-25T04:13:10 GMT-08:00" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataProviderTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-25T04:13:10 GMT-08:00" name="tearDown" finished-at="2022-11-25T04:13:10 GMT-08:00" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-25T04:13:10 GMT-08:00" name="setUp" finished-at="2022-11-25T04:13:17 GMT-08:00" duration-ms="7079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="DataProviderTest(java.lang.String,java.lang.String)[pri:4, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-25T04:13:17 GMT-08:00" name="DataProviderTest" data-provider="getDataFromExcel" finished-at="2022-11-25T04:13:17 GMT-08:00" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataProviderTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-25T04:13:17 GMT-08:00" name="tearDown" finished-at="2022-11-25T04:13:18 GMT-08:00" duration-ms="368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-25T04:13:18 GMT-08:00" name="setUp" finished-at="2022-11-25T04:13:38 GMT-08:00" duration-ms="20196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="DataProviderTest(java.lang.String,java.lang.String)[pri:4, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-25T04:13:38 GMT-08:00" name="DataProviderTest" data-provider="getDataFromExcel" finished-at="2022-11-25T04:13:38 GMT-08:00" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[scott]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataProviderTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.hrm.testclass.HomepageTest@2805d709]" started-at="2022-11-25T04:13:38 GMT-08:00" name="tearDown" finished-at="2022-11-25T04:13:38 GMT-08:00" duration-ms="350" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.qa.hrm.testclass.HomepageTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

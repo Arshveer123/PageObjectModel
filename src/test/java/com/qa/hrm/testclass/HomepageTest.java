@@ -56,7 +56,7 @@ public class HomepageTest extends TestBase {
 		return data;
 	}
 
-	@Test(priority=4, dataProvider="getDataFromExcel", enabled= false)
+	@Test(priority=4, dataProvider="getDataFromExcel")
 	public void DataProviderTest(String username,String Password) {
 		System.out.println(username+" "+Password);
 		
